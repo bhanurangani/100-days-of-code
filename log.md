@@ -17,3 +17,21 @@
 **Thoughts**: Lists and Tuples are easy to implement, and fun working on.
 
 **Link(s) to work**: [List and Tuples](https://github.com/bhanurangani/100-days-of-code/tree/master/codes/day-1)
+
+### Day 2: July 3, 2018 (Tuesday)
+##### (delete me or comment me out)
+
+**Today's Progress**: Today i worked on conditions like if-else,nested if else, if else if. Learned how to take input from user. And Aslo learned how to use while loop.
+
+**Thoughts**: Thankfully, i got all my programs executed without error. I thought that error can occur in case of taking input from user.
+
+**Link(s) to work**: [List and Tuples](https://github.com/bhanurangani/100-days-of-code/tree/master/codes/day-2)
+
+### Day 3: July 4, 2018 (Wednesday)
+##### (delete me or comment me out)
+
+**Today's Progress**: Today i started with learning for loop, and practiced some syntax on taking input from user using for loop.
+
+**Thoughts**: Today, it was little tough for me, because i got stuck at a point where the expected out was not being generated. I will take the help of my sir for that.
+
+**Link(s) to work**: [List and Tuples](https://github.com/bhanurangani/100-days-of-code/tree/master/codes/day-3)
